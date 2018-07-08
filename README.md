@@ -1,6 +1,6 @@
 ## Danielle Booysen
 
-A professional jazz pianist, composer and arranger, I am thrilled to swap the stage & studio for Makers Academy; I can now rightfully call myself a skilled software developer in the making.
+A professional jazz pianist, composer and arranger, I'm thrilled to now swap the stage & studio for Makers Academy and rightfully call myself a skilled software developer in the making.
 (Also an erstwhile copywriter, although I find constructing code far more satisfying than penning press releases.)
 
 (Then a sentence about what you've achieved.)
@@ -11,8 +11,8 @@ I am particularly interested in meaningful UX; making accessible web stuff that 
 ## Projects
 
 | Title | Description | Web Stack | Source Code |
-| --- |:---:| ---:| ---:|
-| [Portfolio](https://daniellebooysen.com)| The 2nd project in the [freeCodeCamp](https://www.freecodecamp.org/) curriculum, which I designed and developed in Codepen after 2 months of learning programming from scratch | HTML, CSS, Bootstrap | [GitHub](https://github.com/dani-boo/random-quote-machine)
+|:--- |:--- | ---:| ---:|
+| [Portfolio](https://daniellebooysen.com)| The 2nd project in the [freeCodeCamp](https://www.freecodecamp.org/) curriculum, which I designed and developed after 2 months of learning to program from scratch | HTML, CSS, Bootstrap | [GitHub](https://github.com/dani-boo/random-quote-machine)
 | [Random Quote Machine]( http://daniellebooysen.com/random-quote-machine/)  | fCC fun. This project took me 2 hours to design and 2 days to build. I chose quotes from The Big Lebowski film | HTML, CSS, JavaScript | [GitHub](https://github.com/dani-boo/dani-boo.github.io)
 
 
@@ -77,6 +77,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Diploma in Graphic Design 
 - Grade: Distinction
 
+#### V.Ships / STCW / The Maritime Bahamas Authority
+- Crowd Management Certificate
+
 #### Universal Class (2015)
 - Certificate in Proofreading & Copyediting
 - Grade: 98%
@@ -92,24 +95,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Silver Spirit, Silversea Cruises, Monaco** (June 2017 to October 2017)
-*Resident Solo Piano & Vocal Entertainer*
-
-**CV Profs, Johannesburg, South Africa** (May 2015 to May 2017)
-*Senior Associate Writer*
-
-**National Network Communications, Sharjah, UAE** (January 2015 to December 2016)
-*Copywriter & Proofreader (remote)*
-
-**SAHARA Communications, Dubai, UAE** (March 2014 to December 2016)
-*Senior Copywriter & Editor (remote)*
-
-**Elangeni Hotel, Durban, South Africa** (August 2014 to October 2016)
-*Resident Solo Pianist & Vocalist*
-
-**10+ 5-star hotels, Dubai, United Arab Emirates** (January 2010 to March 2014)
-*Resident Solo Pianist & Vocalist | Musical Director of Resident Band*
-
-**St Henry's Marist College, Durban, South Africa** (July 2008 to November 2009)
-*Music Teacher (theory, piano, vocals)*
+| Company | Timeframe | Position |
+|:--- |:--- |:--- |
+|**Silver Spirit, Silversea Cruises, Monaco**|June 2017 to Oct 2017|*Resident Solo Piano & Vocal Entertainer*|
+|**CV Profs, Johannesburg, South Africa**| May 2015 to May 2017|*Senior Associate Writer*|
+|**National Network Communications, Sharjah, UAE**|Jan 2015 to Dec 2016|*Copywriter & Proofreader (remote)*|
+|**SAHARA Communications, Dubai, UAE** |March 2014 to Dec 2016|*Senior Copywriter & Editor (remote)*|
+|**Elangeni Hotel, Durban, South Africa** |Aug 2014 to Oct 2016|*Resident Solo Pianist & Vocalist*|
+|[**10+ 5-star hotels, Dubai, United Arab Emirates**](https://goo.gl/ackPrV) |Jan 2010 to March 2014|*Resident Solo Pianist & Vocalist* | Musical Director of Resident Band*|**St Henry's Marist College, Durban, South Africa** |July 2008 to Nov 2009| *Music Teacher (theory, piano, vocals)*
 
