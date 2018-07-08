@@ -1,19 +1,19 @@
 ## Danielle Booysen
 
-A professional jazz pianist & vocalist, composer and arranger, I am thrilled to give the stage a rest and become a software developer at Makers Academy. 
+A professional jazz pianist, composer and arranger, I am thrilled to swap the stage & studio for Makers Academy; I can now rightfully call myself a skilled software developer in the making.
 (Also an erstwhile copywriter, although I find constructing code far more satisfying than penning press releases.)
 
 (Then a sentence about what you've achieved.)
 
 
-I am particularly interested in meaningful UX; making web stuff look good and work well. My ideal workplace provides a product/service founded in ethical practices, and the opportunity to learn from and take on challenges with colleagues who are as passionate about programming as I am.
+I am particularly interested in meaningful UX; making accessible web stuff that looks good **and** works well. My ideal workplace provides a product/service founded in ethical practices, and the opportunity to take on, solve, and learn from challenges with peers who are as passionate about programming as I am.
 
 ## Projects
 
-| Title                 | Description                   | Link  |
-| -------------         |:-------------:                | -----:|
-| Portfolio             | 2nd freeCodeCamp project      | [portfolio](https://daniellebooysen.com) |
-| Random Quote Machine  | fCC JavaScript fun            | [The Big Lebowski]( http://daniellebooysen.com/random-quote-machine/)|
+| Title | Description | Web Stack | Source Code |
+| --- |:---:| ---:| ---:|
+| [Portfolio](https://daniellebooysen.com)| The 2nd project in the [freeCodeCamp](https://www.freecodecamp.org/) curriculum, which I designed and developed in Codepen after 2 months of learning programming from scratch | HTML, CSS, Bootstrap | [GitHub](https://github.com/dani-boo/random-quote-machine)
+| [Random Quote Machine]( http://daniellebooysen.com/random-quote-machine/)  | fCC fun. This project took me 2 hours to design and 2 days to build. I chose quotes from The Big Lebowski film | HTML, CSS, JavaScript | [GitHub](https://github.com/dani-boo/dani-boo.github.io)
 
 
 ## Skills
