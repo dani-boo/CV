@@ -37,9 +37,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### FORMAL QUALIFICATIONS
+### FORMAL QUALIFICATIONS
 
-#### Makers Academy (July 2018 to September 2018)
+| Institution | Degree | Graduation | Achievements |
+|:--- |:--- |:--- |:--- |
+|University of KwaZulu-Natal (UKZN), Durban, South Africa|Bachelor of Arts: Jazz & Popular Music ( [Composition & Arranging; Performance](https://daniplayspiano.com/music/release/recital) )|2014|GPA: A/4|
+|UKZN, Durban, South Africa|National Diploma: Jazz & Popular Music (Berklee College Boston USA course)|2008|GPA: A/4; (Whilst at TUT): Winner of SAMRO Bursary for Academic Excellence and SRC leader|
+|Durban Academy, Durban, South Africa|Senior Certificate, Higher Grade|2001|GPA: A+/4.25; Academic Honours; Highest achiever in English & Music; Prefect leader|
+
+### OTHER CERTIFICATES & COURSES
+
+### Makers Academy (July 2018 to September 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -50,45 +58,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### University of KwaZulu-Natal, Durban, South Africa (2014)
-
-- Bachelor of Arts: Jazz & Popular Music (Composition & Arranging  | Performance)
-- GPA: A/4
-
-#### University of KwaZulu-Natal, Durban, South Africa (2006 to 2008)
-
-- National Diploma: Jazz & Popular Music (Berklee Boston USA diploma) 
-- GPA: A/4
-#### Achievements: 
-- Winner of SAMRO Bursary for Academic Excellence
-- Student Representative Council leader
-
-#### Durban Academy, Durban, South Africa (2001)
-- Senior Certificate, Higher Grade
-- GPA: A+/4.25
-#### Achievements: 
-- Academic Honours
-- Highest achiever in English & Music
-- Prefect leader
-
-#### OTHER CERTIFICATES & COURSES
-
-#### Shaw Academy (2018)
+### Shaw Academy (2018)
 - Diploma in Graphic Design 
 - Grade: Distinction
 
-#### V.Ships / STCW / The Maritime Bahamas Authority
+### V.Ships / STCW / The Maritime Bahamas Authority
 - Crowd Management Certificate
 
-#### Universal Class (2015)
+### Universal Class (2015)
 - Certificate in Proofreading & Copyediting
 - Grade: 98%
 
-#### School of Creative Communication, Centurion, South Africa (2003 to 2004)
+### School of Creative Communication, Centurion, South Africa (2003 to 2004)
 - Diploma in Jazz studies
 - Grade: Distinction
 
-#### Pneumatix Youth Mission, Cape Town, South Africa (2002)
+### Pneumatix Youth Mission, Cape Town, South Africa (2002)
 - Certificate in Youth Counselling & Theology (NQF Level 5)
 - Grade: Distinction
 
